@@ -27,19 +27,37 @@
 > The description should NOT contain any personally identifiable information.
 
 #### a. Description of Participant 1
- - The Quick 
- - Brown Fox 
- - Jumps Over 
- - The Lazy Dog
+<ul>
+ <li>The user is a male</li>
+ <li>He is 19 years old</li>
+ <li>He is a student in Informatics in ITS</li>
+ <li>He has experience using a email for assignment.</li>
+</ul>
 
 #### b. Description of Participant 2
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+<ul>
+ <li>The user is a female</li>
+ <li>She is 19 years old</li>
+ <li>She is a student in Informatics in ITS</li>
+ <li>She has experience using a email for assignment.</li>
+</ul>
+
+#### c. Description of Participant 3
+<ul>
+ <li>The user is a female</li>
+ <li>She is 19 years old</li>
+ <li>She is a student in Informatics in ITS</li>
+ <li>She has experience using a email for assignment.</li>
+</ul>
 
 ### 2. Evaluation Script
 > Write the questions you ask and the instructions you use to direct the participants on what to do.
 > If it is the same as previous assignments, please mention this, yet go ahead and INCLUDE it again,
 > so we have everything in one place.
 > Note that the evaluation script must include exactly what you plan to say to the participants.
+<ul>
+ <li>Try to reset password</li>
+</ul>
 
 ### 3. Transcript
 > Provide a summary of what the participant did and said, and what you did and said.
@@ -51,16 +69,52 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 > Remember to supplement the transcript with time-codes or line-numbers.
 
 #### a. Transcript with Participant 1
- 1. **You**: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
- 1. **Participant**: Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
- 1. **You**: when an unknown printer took a galley of type and scrambled it to make a type specimen book.
- 1. **Participant**: The Quick Brown Fox Jumps Over The Lazy Dog.
+ 1. **Me**: Hai, makasih ya sudah meluangkan sedikit waktu.
+ 2. **Participant**: Iya.
+ 3. **Me**: Oke, langsung saja, jadi disini saya membuat prototype dengan desain yang saya buat sendiri dengan beberapa revisi yang menurut saya harus diperbaiki oleh mail its dan yang harusnya tidak ada. Lalu disini saya mau meminta pendapatmu tentang prototype yang saya buat.
+ 4. **Participant**: Oh oke.
+ 5. **Me**: Oke, kamu coba untuk mereset password email mu.
+ 6. **Participant**: Siap.
+ 7. User sedang mencoba untuk mereset password
+ 8. **Me**: Gimana menurutmu sama fitur itu?
+ 9. **Participant**: Yah, secara alur menurutku sudah pas, fitur-fitur forget password menurutku juga kurang lebih seperti itu kan
+ 10. **Me**: Hoo, oke. Terus secara desain keseluruhannya gimana?
+ 11. **Participant**: Kalo dari desainnya, di protoptypenya ga ada judul yang jelas ini web apa, mungkin bisa diperjelas seperti homepagenya gmail yang sederhana tapi orang sekali lihat langsung tau itu webmail
+ 12. **Me**: Oke noted, ada lagi?
+ 13. **Participant**: Ada satu lagi sih, ini saran saja, kalau login page ya login page aja, jangan ada berita-berita gitu, nanti jadinya terlalu banyak konten di depannya.
+ 14. **Me**: Oke, makasih sarannya, ada lagi?
+ 15. **Participant**: Sudah cukup menurutku
+ 16. **Me**: Oke, makasih.
 
 #### b. Transcript with Participant 2
- - **00:01** 👨‍🔬 You: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
- - **00:10** 👨‍💻 Participant: Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
- - **00:17** 👨‍🔬 You: when an unknown printer took a galley of type and scrambled it to make a type specimen book.
- - **00:25** 👨‍💻 Participant: The Quick Brown Fox Jumps Over The Lazy Dog.
+1. **Me**: Hai, makasih ya sudah meluangkan sedikit waktu.
+2. **Participant**: Iya.
+3. **Me**: Oke, langsung saja, jadi disini saya membuat prototype dengan desain yang saya buat sendiri dengan beberapa revisi yang menurut saya harus diperbaiki oleh mail its dan yang harusnya tidak ada. Lalu disini saya mau meminta pendapatmu tentang prototype yang saya buat.
+4. **Participant**: Oalah.
+5. **Me**: Oke, sekarang kamu coba fitur reset passwordnya.
+6. User sedang mencoba untuk mereset password
+7. **Me**: Gimana menurutmu fiturnya?
+8. **Participant**: Menurutku sih mas, forget passwordnya ada pilihan lain, jadi kayak pakai second email, jadi bisa ganti password lewat link yang dikirim di second email, oh iya, kan ini ga ada sign up nya, jadi kalau bisa dikasih FAQ buat bagaimana cara daftarnya atau dapet email itsnya.
+9. **Me**: Oh, oke, dicatat. Terus dari desain keseluruhan gimana?
+10. **Participant**: Tombol silangnya masih kotak putih, kalau biasanya itu bunder merah.
+11. **Me**: Oke-oke, ada lagi?
+12. **Participant**: Sudah itu aja.
+13. **Me**: Oke, makasih ya.
+
+#### c. Transcript with Participant 3
+1. **Me**: Hai, makasih ya sudah meluangkan sedikit waktu.
+2. **Participant**: Iya.
+3. **Me**: Oke, langsung saja, jadi disini saya membuat prototype dengan desain yang saya buat sendiri dengan beberapa revisi yang menurut saya harus diperbaiki oleh mail its dan yang harusnya tidak ada. Lalu disini saya mau meminta pendapatmu tentang prototype yang saya buat.
+4. **Participant**: Oalah.
+5. **Me**: Oke, sekarang kamu coba fitur reset passwordnya.
+6. User sedang mencoba untuk mereset password
+7. **Me**: Gimana menurutmu fiturnya?
+8. **Participant**: Alur recover password sudah jelas, hanya saja pada menu forget password tidak dimintai e-mail. Bagaimana caranya tahu akun mana yang mau di-recover passwordnya? Kecuali memang dijelaskan bahwa kolom isian e-mail pada popup login harus diisi saat memencet menu forget password.
+9. **Me**: Hmm, benar juga, oke-oke ada lagi?
+10. **Participant**: Pada pop-up login, tombol 'x' kurang terlihat seperti tombol untuk menutup popup tersebut cenderung terlihat seperti gambar surat
+11. **Me**: Oke, dicatat. Ada lagi?
+12. **Participant**: Kurang menjelaskan mengenai webnya. "Ini web untuk apa?", lalu Logo ITS terlalu mepet dengan tulisannya, dan yang terakhir penempatan item kurang balance, mepet kanan. Sudah itu aja menurutku
+13. **Me**: Hoo oke-oke, makasih ya.
 
 ### 4. Feedback and Incidence Analysis
 > Record your observations per prototype screen followed by reference, feedback, incidence, reason, and resolution.
