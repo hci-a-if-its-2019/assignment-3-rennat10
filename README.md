@@ -120,13 +120,23 @@ Youtube : <a href="https://youtu.be/S0LnTg8M2TQ"> Prototype </a>
 > Record your observations per prototype screen followed by reference, feedback, incidence, reason, and resolution.
 
 #### OBSERVATION 1
-![Prototype Screen 1](https://www.europassitalian.com/wp-content/uploads/2018/02/bravolol-app-screenshot-1-635x1128.png)
+![Prototype Screen 1](https://github.com/hci-a-if-its-2019/assignment-3-rennat10/blob/master/imk_1_new.jpg)
 
- - **Reference**: Provide line-number(s) or time-code(s) referred by feedback/incidence observed on the screen.
- - **Feedback**: Provide feedback (positive or negative) given by the participants, if any.
- - **Incidence**: Critical incidences (breakdowns or problems encountered by the participants) and/or mistakes committed by the participants, if any.
- - **Reason**: Explain the reason for the breakdowns or the negative feedback observed on the screen.
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 1`.
+ - **Reference**: Participant 1(Line 11, Line 13), Paricipant 2(Line 8), Participant 3(Line 12)
+ - **Feedback**: 
+                Negative -> Participant 1(Line 11), Participant 3(Line 12) -> Tittle of the website unclear
+                Negative -> Participant 2(Line 8) -> There is no 'How to make ITS mail' instruction
+                Negative -> Participant 1(Line 13) -> No need of the news
+ - **Incidence**: 
+                1. When user want to make ITS mail
+                2. When user look at the tittle and initial display
+ - **Reason**: 
+                User is not familiar with FAQ
+                User feel disturbed by the appearance that is not clear
+ - **Resolution**: 
+                1. Make tittle more clear like `ITS MAIL`
+                2. Make `How to make ITS Mail` button
+                3. Erase the news
  
 #### OBSERVATION 2
 ![Prototype Screen 2](https://www.studiainitalia.com/wp-content/uploads/2017/02/free-courses-Learn-Italian-Online.jpg)
