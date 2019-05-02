@@ -223,6 +223,12 @@ Youtube : <a href="https://youtu.be/S0LnTg8M2TQ"> Prototype </a>
 > Please write a paragraph expressing what you have learned from the usability evaluation, 
 > and how it is reflected in your design.
 
+I designed the first prorotype from several evaluations in my 1st assignment. Then I evaluated the usability to get some damage to make my design better.
+
+In this evaluation, I added a button to find out how to create an account, I deleted the news display on the initial display. Then I change the close button with a red round. Add an alternative to change the password that is sending a confirmation to the backup email. Before changing the password the user must fill in the email first.
+
+In conclusion, by evaluating usability, we know which designs make the user comfortable and make it easy so we can make revisions to adjust.
+
 ### High-Fidelity Interactive-Prototype
 > Create a high-fidelity interactive-prototype based on the `Sketch` you have drawn.
 > You can use any prototyping tools: InVision, Adobe XD, or even Microsoft PowerPoint.
