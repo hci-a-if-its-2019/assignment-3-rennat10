@@ -217,7 +217,9 @@ Youtube : <a href="https://youtu.be/S0LnTg8M2TQ"> Prototype </a>
 > Afterwards, scan the sketch or make the photograph of it and attach it on this report's section.
 > Please make sure the any texts on the sketch are readable.
 
-![Sketch of Refined Prototype](https://cdn2.hubspot.net/hub/725165/file-3421843765-png/blog-files/uxpin--300x211.png)
+![Sketch of Refined Prototype](https://github.com/hci-a-if-its-2019/assignment-3-rennat10/blob/master/Capture.JPG)
+
+Sketch : <a href="https://projects.invisionapp.com/freehand/document/kBAvNseGY"> Prototype </a>
 
 ### Design Rationale
 > Please write a paragraph expressing what you have learned from the usability evaluation, 
