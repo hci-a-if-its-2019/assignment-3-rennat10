@@ -152,13 +152,24 @@ Youtube : <a href="https://youtu.be/S0LnTg8M2TQ"> Prototype </a>
                 3. Erase the news
  
 #### OBSERVATION 2
-![Prototype Screen 2](https://www.studiainitalia.com/wp-content/uploads/2017/02/free-courses-Learn-Italian-Online.jpg)
+![Prototype Screen 2](https://github.com/hci-a-if-its-2019/assignment-3-rennat10/blob/master/imk_2_new.jpg)
 
- - **Reference**: 
+ - **Reference**: Participant 2(Line 10), Participant 3(Line 10)
  - **Feedback**: 
+ 
+               - Negative -> Participant 2(Line 10), Participant 3(Line 10) -> The x button is unclear and look like "mail button"
+               
  - **Incidence**: 
+                 
+                 When user want to close the pop up
+                 
  - **Reason**: 
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 2`.
+ 
+                 User feel disturbed with the design
+                 
+ - **Resolution**: 
+ 
+                 Change the design of the x button
  
 #### OBSERVATION 3
 ![Prototype Screen 3](https://www.jbklutse.com/wp-content/uploads/2019/01/language-learning-apps.png)
