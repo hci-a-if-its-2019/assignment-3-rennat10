@@ -172,15 +172,39 @@ Youtube : <a href="https://youtu.be/S0LnTg8M2TQ"> Prototype </a>
                  Change the design of the x button
  
 #### OBSERVATION 3
-![Prototype Screen 3](https://www.jbklutse.com/wp-content/uploads/2019/01/language-learning-apps.png)
+![Prototype Screen 3](https://github.com/hci-a-if-its-2019/assignment-3-rennat10/blob/master/imk_3_new.jpg)
 
- - **Reference**:  
+ - **Reference**:  Participant 1(Line 9), Participant 2(Line 8), Participant 3(Line 8)
  - **Feedback**: 
+               
+               - Positive -> Participant 1(Line 9),Participant 3(Line 8)-> the groove is clear
+               
+               - Negative -> Participant 2(Line 8) -> Have another alternative to change password, like send confirmation to second email
+               
+               - Negative -> Participant 3(Line 8) -> Need to enter the email when reset password
  - **Incidence**: 
- - **Reason**: 
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 3`.
  
- ... and so on ...
+               - When the user do my instruction to forget password
+               
+ - **Reason**: 
+    
+               - User feel alternative is less
+               
+               - User feel the groove need to be more clear
+               
+ - **Resolution**:
+ 
+               - Make another altarnative to reset password
+               - Make user to input email first before reset password
+ 
+#### OBSERVATION 4
+![Prototype Screen 4](https://github.com/hci-a-if-its-2019/assignment-3-rennat10/blob/master/imk_4_new.jpg)
+
+ - **Reference**:  -
+ - **Feedback**: -
+ - **Incidence**: -
+ - **Reason**: -
+ - **Resolution**: -
  
  ---
 
