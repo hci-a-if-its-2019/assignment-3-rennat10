@@ -120,7 +120,7 @@ Youtube : <a href="https://youtu.be/S0LnTg8M2TQ"> Prototype </a>
 > Record your observations per prototype screen followed by reference, feedback, incidence, reason, and resolution.
 
 #### OBSERVATION 1
-![Prototype Screen 1](https://github.com/hci-a-if-its-2019/assignment-3-rennat10/blob/master/imk_1_new.jpg)
+![Prototype Screen 1](https://github.com/hci-a-if-its-2019/assignment-3-rennat10/blob/master/imk1.jpg)
 
  - **Reference**: Participant 1(Line 11, Line 13), Paricipant 2(Line 8), Participant 3(Line 12)
  - **Feedback**: 
@@ -152,7 +152,7 @@ Youtube : <a href="https://youtu.be/S0LnTg8M2TQ"> Prototype </a>
                 3. Erase the news
  
 #### OBSERVATION 2
-![Prototype Screen 2](https://github.com/hci-a-if-its-2019/assignment-3-rennat10/blob/master/imk_2_new.jpg)
+![Prototype Screen 2](https://github.com/hci-a-if-its-2019/assignment-3-rennat10/blob/master/imk2.jpg)
 
  - **Reference**: Participant 2(Line 10), Participant 3(Line 10)
  - **Feedback**: 
@@ -172,7 +172,7 @@ Youtube : <a href="https://youtu.be/S0LnTg8M2TQ"> Prototype </a>
                  Change the design of the x button
  
 #### OBSERVATION 3
-![Prototype Screen 3](https://github.com/hci-a-if-its-2019/assignment-3-rennat10/blob/master/imk_3_new.jpg)
+![Prototype Screen 3](https://github.com/hci-a-if-its-2019/assignment-3-rennat10/blob/master/imk3.jpg)
 
  - **Reference**:  Participant 1(Line 9), Participant 2(Line 8), Participant 3(Line 8)
  - **Feedback**: 
