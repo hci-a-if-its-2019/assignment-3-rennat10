@@ -124,18 +124,31 @@ Youtube : <a href="https://youtu.be/S0LnTg8M2TQ"> Prototype </a>
 
  - **Reference**: Participant 1(Line 11, Line 13), Paricipant 2(Line 8), Participant 3(Line 12)
  - **Feedback**: 
-                Negative -> Participant 1(Line 11), Participant 3(Line 12) -> Tittle of the website unclear
-                Negative -> Participant 2(Line 8) -> There is no 'How to make ITS mail' instruction
-                Negative -> Participant 1(Line 13) -> No need of the news
+ 
+               - Negative -> Participant 1(Line 11), Participant 3(Line 12) -> Tittle of the website unclear
+               
+               - Negative -> Participant 2(Line 8) -> There is no 'How to make ITS mail' instruction
+               
+               - Negative -> Participant 1(Line 13) -> No need of the news
+               
  - **Incidence**: 
+ 
                 1. When user want to make ITS mail
+                
                 2. When user look at the tittle and initial display
+                
  - **Reason**: 
+ 
                 User is not familiar with FAQ
+                
                 User feel disturbed by the appearance that is not clear
+                
  - **Resolution**: 
+ 
                 1. Make tittle more clear like `ITS MAIL`
+                
                 2. Make `How to make ITS Mail` button
+                
                 3. Erase the news
  
 #### OBSERVATION 2
